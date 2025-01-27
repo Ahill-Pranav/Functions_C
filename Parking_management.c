@@ -22,7 +22,7 @@ void sortArraybyParity(int *nums,int numSize)
 int main()
 {
     int numsize;
-    printf("ENter number of tickets");
+    printf("Enter number of tickets:");
     scanf("%d",&numsize);
     int nums[numsize];
     for(int i=0;i<numsize;i++)
